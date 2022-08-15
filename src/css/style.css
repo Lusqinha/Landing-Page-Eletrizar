@@ -34,13 +34,16 @@ body {
 }
 
 @media screen and (max-width: 767px) {
-  #logo {
-    display: none;
+  .logo {
+    width: 15%;
   }
 }
 
 @media screen and (max-width: 1300px) {
   .assis {
+    width: auto;
+  }
+  .assis1 {
     width: auto;
   }
 }
